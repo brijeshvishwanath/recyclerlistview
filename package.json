@@ -1,5 +1,5 @@
 {
-  "name": "recyclerlistview-decelerate",
+  "name": "@private/recyclerlistview-decelerate",
   "version": "3.0.6",
   "description": "The listview that you need and deserve. It was built for performance, uses cell recycling to achieve smooth scrolling.",
   "main": "dist/reactnative/index.js",
