@@ -1,6 +1,6 @@
 {
-  "name": "recyclerlistview",
-  "version": "3.0.5",
+  "name": "recyclerlistview-decelerate",
+  "version": "3.0.6",
   "description": "The listview that you need and deserve. It was built for performance, uses cell recycling to achieve smooth scrolling.",
   "main": "dist/reactnative/index.js",
   "types": "dist/reactnative/index.d.ts",
@@ -50,5 +50,8 @@
     "file-directives": "1.4.6",
     "tslint": "5.11.0",
     "typescript": "3.3.1"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
   }
 }
